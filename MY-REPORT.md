@@ -8,7 +8,7 @@ This project explores the feasibility of employing Gen AI to critique prompt eng
 This is a response to the Assignment part of the COURSE.
 -->
 
-* Authors: [Max Domeika](https://github.com/mjdome/prompt-eng)
+* Author: [Max Domeika](https://github.com/mjdome/prompt-eng)
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
 The code to run the experiments are located in the directory, max-prompt-eng-tests. The output data of the experiments are located in the directory, max-prompt-eng-tests/data3.
