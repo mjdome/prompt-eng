@@ -135,7 +135,7 @@ The following table lists the ratings of the prompt output from step 4. The prom
 
 The results indicate the most capable prompt technique for the use case is the Prompt for a Prompt technique with a score average of 94.0. The 2nd best prompt technique out of the 3 under study is the knowledge prompt. The zero shot prompt technique resulted in the lowest score. Research question 1 is answered by these results; there is evidence that a Gen AI evaluator can be employed to provide qualitative feedback on prompt output and because of the results from step 2, we have some confidence that the ratings are accurate.
 
-The following table lists the ratings of the prompt output from the prompt for prompt technique and the rating after using the Gen AI evaluator feedback. The Improve 1 prompt is the first request to improve the prompt output using the Gen AI Evaluator feedback. The feedback process was repeated again and Improve 2 results reflect it.
+The following table lists the ratings of the prompt output from the prompt for prompt technique and the rating after using the Gen AI evaluator feedback. (Note: the prompt for prompt output here were different executions than the prompt for prompt from step 4.) The Improve 1 prompt is the first request to improve the prompt output using the Gen AI Evaluator feedback. The feedback process was repeated again and Improve 2 results reflect it.
 
 | Prompt | Average Score | Highest Score |
 | --- | --- | ---|
